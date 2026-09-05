@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9; /* Properti tambahan 1 */
+}
+header {
+    padding: 30px;
+    text-align: center;
+    background: #eeeeee;
+    letter-spacing: 2px; /* Properti tambahan 2 */
+}
+nav {
+    padding: 15px;
+    text-align: center;
+    background: #333333;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+article {
+    padding: 30px;
+    max-width: 900px;
+    margin: 20px auto;
+    background: white; /* Properti tambahan 3 */
+    border-radius: 8px; /* Properti tambahan 4 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Properti tambahan 5 */
+}
+footer {
+    padding: 20px;
+    text-align: center;
+    background: #eeeeee;
+    border-top: 2px solid #dddddd;
+}
